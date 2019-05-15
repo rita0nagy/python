@@ -1,0 +1,6 @@
+>>> print('hello world')
+>>> print('hello\nworld')
+>>> print('print("print")')
+>>> input("Enter your telephone number here :)")
+>>> "hello" + "world"
+>>> print(0 * '7')
